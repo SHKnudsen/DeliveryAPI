@@ -1,0 +1,1 @@
+docker rm dda-mosquitto -f
