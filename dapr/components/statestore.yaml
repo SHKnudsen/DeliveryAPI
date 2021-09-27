@@ -13,5 +13,3 @@ spec:
     secretKeyRef:
       name: state.redisPassword
       key: state.redisPassword
-  - name: actorStateStore
-    value: "true"
